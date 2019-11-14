@@ -1,11 +1,6 @@
-# Fizzbuzz TDD Exercise
+# Roman Numerals TDD Exercise
 
-We want a function that accepts a parameter N and returns an array of the numbers from 1 to N
-
-However…
-- Numbers that are multiples of 3 should be replaced with "Fizz"
-- Numbers that are multiples of 5 should be replaced with "Buzz"
-- Numbers that are multiples of both 3 and 5 should be replaced with "FizzBuzz"
+We want a function that can accept any arabic (normal) number and return a string of the roman numeral representation of that number
 
 You should aim to develop this functionality using a TDD approach.
 
